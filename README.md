@@ -1,5 +1,5 @@
 # pandas2mongo
-将dataframe 转换成mongodb 中的doucuments，或进行批量更新
+将dataframe 转换成mongodb 中的doucuments，并进行批量更新或插入。
 （陆续更新中）
 1. to_base_type()：将numpy 或pandas 的类型转换为对应的基本类型
 ``` Python
